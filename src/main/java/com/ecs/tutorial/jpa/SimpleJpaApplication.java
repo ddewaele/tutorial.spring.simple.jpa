@@ -1,6 +1,6 @@
-package com.example.onlinestore;
+package com.ecs.tutorial.jpa;
 
-import com.example.onlinestore.repository.PromotionRepository;
+import com.ecs.tutorial.jpa.repository.PromotionRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

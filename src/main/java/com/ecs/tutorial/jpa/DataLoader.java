@@ -1,8 +1,8 @@
-package com.example.onlinestore;
+package com.ecs.tutorial.jpa;
 
-import com.example.onlinestore.model.Promotion;
-import com.example.onlinestore.model.PromotionCode;
-import com.example.onlinestore.repository.PromotionRepository;
+import com.ecs.tutorial.jpa.model.Promotion;
+import com.ecs.tutorial.jpa.model.PromotionCode;
+import com.ecs.tutorial.jpa.repository.PromotionRepository;
 import com.github.javafaker.Faker;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

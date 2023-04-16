@@ -1,4 +1,4 @@
-package com.example.onlinestore.model;
+package com.ecs.tutorial.jpa.model;
 
 import java.util.Random;
 
