@@ -14,7 +14,7 @@ password : password
 
 You can launch the application with the `postgres` profile
 
-``
+```
 docker run --name simplejpa-postgres -e POSTGRES_USER=simplejpa -e POSTGRES_PASSWORD=simplejpa -e POSTGRES_DB=simplejpa -p 5432:5432 -d postgres
 ```
 
